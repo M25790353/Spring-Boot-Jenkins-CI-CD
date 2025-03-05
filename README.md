@@ -71,7 +71,7 @@ The CI/CD pipeline follows these key stages:
 ```groovy
 tools {
     jdk 'jdk17'
-    maven 'maven3'
+    maven 'my-maven'
 }
 ```
 
